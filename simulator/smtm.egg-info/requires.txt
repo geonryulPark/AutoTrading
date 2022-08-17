@@ -1,0 +1,11 @@
+requests
+numpy
+matplotlib
+pandas
+mplfinance
+pyjwt
+python-dotenv
+jupyter
+
+[dev]
+coverage
