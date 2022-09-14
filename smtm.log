@@ -1,0 +1,1198 @@
+2022-08-07 16:39:43,345  INFO SimulationDataProvid    43 - data is updated from server # end: 2020-12-20T18:00:00, count: 60
+2022-08-07 16:39:43,401 DEBUG        VirtualMarket    56 - Virtual Market is initialized end: 2020-12-20T18:00:00, count: 60
+2022-08-07 16:39:43,401  INFO            Simulator   166 - Simulation start! ==================
+2022-08-07 16:39:43,401  INFO   SimulationOperator    82 - ===== Start operating =====
+2022-08-07 16:39:43,402 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26017000.0}, 'date_time': '2020-12-20T17:00:00'}
+2022-08-07 16:39:43,402  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:39:43,402 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:43,402 WARNI   SimulationOperator    91 - can't get additional info form strategy and trader
+2022-08-07 16:39:43,402 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:43,402  INFO   SimulationOperator    25 - ############# Simulation trading is started : 1
+2022-08-07 16:39:43,402  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:00:00
+2022-08-07 16:39:43,404 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:43,404 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:43,404 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:43,404 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:43,404 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:43,404 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:43,910 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:43,910  INFO   SimulationOperator    25 - ############# Simulation trading is started : 2
+2022-08-07 16:39:43,911  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:01:00
+2022-08-07 16:39:43,915 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:43,915 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:43,915 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:43,915 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:43,915 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:43,916 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:44,421 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:44,422  INFO   SimulationOperator    25 - ############# Simulation trading is started : 3
+2022-08-07 16:39:44,422  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:02:00
+2022-08-07 16:39:44,426 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26010000.0}, 'date_time': '2020-12-20T17:02:00'}
+2022-08-07 16:39:44,426  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:39:44,427 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:44,427 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:44,427 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:44,427 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:44,428 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:44,428 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:44,934 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:44,934  INFO   SimulationOperator    25 - ############# Simulation trading is started : 4
+2022-08-07 16:39:44,935  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:03:00
+2022-08-07 16:39:44,938 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:44,939 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:44,939 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:44,939 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:44,940 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:44,940 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:45,441 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:45,442  INFO   SimulationOperator    25 - ############# Simulation trading is started : 5
+2022-08-07 16:39:45,442  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:04:00
+2022-08-07 16:39:45,445 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26008000.0}, 'date_time': '2020-12-20T17:04:00'}
+2022-08-07 16:39:45,446  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:39:45,446 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:45,446 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:45,446 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:45,446 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:45,447 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:45,447 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:45,951 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:45,952  INFO   SimulationOperator    25 - ############# Simulation trading is started : 6
+2022-08-07 16:39:45,952  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:05:00
+2022-08-07 16:39:45,956 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:45,957 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:45,957 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:45,957 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:45,957 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:45,958 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:46,459 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:46,459  INFO   SimulationOperator    25 - ############# Simulation trading is started : 7
+2022-08-07 16:39:46,460  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:06:00
+2022-08-07 16:39:46,463 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 25978000.0}, 'date_time': '2020-12-20T17:06:00'}
+2022-08-07 16:39:46,463  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:39:46,464 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:46,464 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:46,464 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:46,464 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:46,464 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:46,465 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:46,971 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:46,971  INFO   SimulationOperator    25 - ############# Simulation trading is started : 8
+2022-08-07 16:39:46,972  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:07:00
+2022-08-07 16:39:46,976 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:46,976 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:46,976 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:46,976 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:46,976 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:46,977 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:47,482 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:47,483  INFO   SimulationOperator    25 - ############# Simulation trading is started : 9
+2022-08-07 16:39:47,484  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:08:00
+2022-08-07 16:39:47,487 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 25964000.0}, 'date_time': '2020-12-20T17:08:00'}
+2022-08-07 16:39:47,488  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:39:47,488 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:47,488 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:47,488 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:47,489 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:47,489 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:47,489 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:47,993 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:47,994  INFO   SimulationOperator    25 - ############# Simulation trading is started : 10
+2022-08-07 16:39:47,994  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:09:00
+2022-08-07 16:39:47,998 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:47,999 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:47,999 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:47,999 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:47,999 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:48,000 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:48,505 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:48,506  INFO   SimulationOperator    25 - ############# Simulation trading is started : 11
+2022-08-07 16:39:48,507  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:10:00
+2022-08-07 16:39:48,511 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 25976000.0}, 'date_time': '2020-12-20T17:10:00'}
+2022-08-07 16:39:48,511  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:39:48,512 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:48,512 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:48,512 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:48,513 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:48,513 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:48,513 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:49,019 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:49,020  INFO   SimulationOperator    25 - ############# Simulation trading is started : 12
+2022-08-07 16:39:49,020  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:11:00
+2022-08-07 16:39:49,024 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:49,024 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:49,024 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:49,025 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:49,025 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:49,025 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:49,531 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:49,532  INFO   SimulationOperator    25 - ############# Simulation trading is started : 13
+2022-08-07 16:39:49,532  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:12:00
+2022-08-07 16:39:49,536 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 25975000.0}, 'date_time': '2020-12-20T17:12:00'}
+2022-08-07 16:39:49,537  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:39:49,537 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:49,537 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:49,538 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:49,538 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:49,538 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:49,538 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:50,044 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:50,045  INFO   SimulationOperator    25 - ############# Simulation trading is started : 14
+2022-08-07 16:39:50,045  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:13:00
+2022-08-07 16:39:50,049 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:50,049 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:50,049 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:50,049 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:50,050 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:50,050 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:50,554 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:50,554  INFO   SimulationOperator    25 - ############# Simulation trading is started : 15
+2022-08-07 16:39:50,554  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:14:00
+2022-08-07 16:39:50,556 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 25975000.0}, 'date_time': '2020-12-20T17:14:00'}
+2022-08-07 16:39:50,557  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:39:50,557 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:50,557 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:50,557 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:50,558 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:50,558 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:50,558 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:51,064 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:51,064  INFO   SimulationOperator    25 - ############# Simulation trading is started : 16
+2022-08-07 16:39:51,064  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:15:00
+2022-08-07 16:39:51,068 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:51,068 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:51,068 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:51,069 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:51,069 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:51,069 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:51,575 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:51,576  INFO   SimulationOperator    25 - ############# Simulation trading is started : 17
+2022-08-07 16:39:51,576  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:16:00
+2022-08-07 16:39:51,580 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 25999000.0}, 'date_time': '2020-12-20T17:16:00'}
+2022-08-07 16:39:51,581  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:39:51,581 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:51,581 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:51,581 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:51,582 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:51,582 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:51,583 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:52,088 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:52,089  INFO   SimulationOperator    25 - ############# Simulation trading is started : 18
+2022-08-07 16:39:52,089  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:17:00
+2022-08-07 16:39:52,093 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:52,093 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:52,093 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:52,093 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:52,093 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:52,094 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:52,596 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:52,597  INFO   SimulationOperator    25 - ############# Simulation trading is started : 19
+2022-08-07 16:39:52,597  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:18:00
+2022-08-07 16:39:52,597 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26037000.0}, 'date_time': '2020-12-20T17:18:00'}
+2022-08-07 16:39:52,597  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:39:52,598 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:52,598 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:52,598 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:52,598 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:52,598 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:52,598 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:53,104 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:53,105  INFO   SimulationOperator    25 - ############# Simulation trading is started : 20
+2022-08-07 16:39:53,106  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:19:00
+2022-08-07 16:39:53,108 DEBUG         StrategySma0    80 - process_unit updated (3333, 0)
+2022-08-07 16:39:53,109  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:39:53,109  INFO         StrategySma0   195 - [REQ] id: 1659857993.11 =====================
+2022-08-07 16:39:53,109  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:39:53,109  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:39:53,110  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:39:53,110 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:53,110 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:53,110 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:53,110 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:53,110 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:53,111 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:53,616 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:53,617  INFO   SimulationOperator    25 - ############# Simulation trading is started : 21
+2022-08-07 16:39:53,617  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:20:00
+2022-08-07 16:39:53,621 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26120000.0}, 'date_time': '2020-12-20T17:20:00'}
+2022-08-07 16:39:53,621  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:39:53,622  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:39:53,622  INFO         StrategySma0   195 - [REQ] id: 1659857993.622 =====================
+2022-08-07 16:39:53,622  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:39:53,622  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:39:53,623  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:39:53,623 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:53,623 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:53,623 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:53,623 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:53,623 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:53,624 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:54,125 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:54,126  INFO   SimulationOperator    25 - ############# Simulation trading is started : 22
+2022-08-07 16:39:54,126  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:21:00
+2022-08-07 16:39:54,129  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:39:54,130  INFO         StrategySma0   195 - [REQ] id: 1659857994.13 =====================
+2022-08-07 16:39:54,130  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:39:54,130  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:39:54,130  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:39:54,130 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:54,130 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:54,131 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:54,131 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:54,131 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:54,132 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:54,633 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:54,634  INFO   SimulationOperator    25 - ############# Simulation trading is started : 23
+2022-08-07 16:39:54,634  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:22:00
+2022-08-07 16:39:54,637 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26087000.0}, 'date_time': '2020-12-20T17:22:00'}
+2022-08-07 16:39:54,637  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:39:54,637  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:39:54,637  INFO         StrategySma0   195 - [REQ] id: 1659857994.638 =====================
+2022-08-07 16:39:54,638  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:39:54,638  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:39:54,638  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:39:54,638 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:54,638 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:54,638 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:54,639 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:54,639 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:54,639 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:55,145 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:55,145  INFO   SimulationOperator    25 - ############# Simulation trading is started : 24
+2022-08-07 16:39:55,146  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:23:00
+2022-08-07 16:39:55,149  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:39:55,150  INFO         StrategySma0   195 - [REQ] id: 1659857995.15 =====================
+2022-08-07 16:39:55,150  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:39:55,150  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:39:55,150  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:39:55,150 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:55,150 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:55,151 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:55,151 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:55,151 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:55,151 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:55,657 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:55,657  INFO   SimulationOperator    25 - ############# Simulation trading is started : 25
+2022-08-07 16:39:55,658  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:24:00
+2022-08-07 16:39:55,661 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26095000.0}, 'date_time': '2020-12-20T17:24:00'}
+2022-08-07 16:39:55,661  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:39:55,661  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:39:55,662  INFO         StrategySma0   195 - [REQ] id: 1659857995.662 =====================
+2022-08-07 16:39:55,662  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:39:55,662  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:39:55,662  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:39:55,662 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:55,662 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:55,662 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:55,663 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:55,663 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:55,663 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:56,167 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:56,168  INFO   SimulationOperator    25 - ############# Simulation trading is started : 26
+2022-08-07 16:39:56,168  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:25:00
+2022-08-07 16:39:56,172  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:39:56,173  INFO         StrategySma0   195 - [REQ] id: 1659857996.173 =====================
+2022-08-07 16:39:56,173  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:39:56,173  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:39:56,173  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:39:56,173 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:56,173 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:56,173 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:56,174 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:56,174 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:56,174 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:56,680 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:56,680  INFO   SimulationOperator    25 - ############# Simulation trading is started : 27
+2022-08-07 16:39:56,681  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:26:00
+2022-08-07 16:39:56,684 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26113000.0}, 'date_time': '2020-12-20T17:26:00'}
+2022-08-07 16:39:56,684  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:39:56,685  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:39:56,685  INFO         StrategySma0   195 - [REQ] id: 1659857996.685 =====================
+2022-08-07 16:39:56,685  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:39:56,685  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:39:56,685  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:39:56,685 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:56,685 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:56,686 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:56,686 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:56,686 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:56,687 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:57,192 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:57,193  INFO   SimulationOperator    25 - ############# Simulation trading is started : 28
+2022-08-07 16:39:57,193  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:27:00
+2022-08-07 16:39:57,197  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:39:57,197  INFO         StrategySma0   195 - [REQ] id: 1659857997.198 =====================
+2022-08-07 16:39:57,197  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:39:57,197  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:39:57,198  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:39:57,198 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:57,198 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:57,198 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:57,198 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:57,198 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:57,199 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:57,701 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:57,701  INFO   SimulationOperator    25 - ############# Simulation trading is started : 29
+2022-08-07 16:39:57,702  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:28:00
+2022-08-07 16:39:57,705 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26170000.0}, 'date_time': '2020-12-20T17:28:00'}
+2022-08-07 16:39:57,705  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:39:57,705  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:39:57,705  INFO         StrategySma0   195 - [REQ] id: 1659857997.706 =====================
+2022-08-07 16:39:57,706  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:39:57,706  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:39:57,706  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:39:57,706 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:57,706 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:57,706 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:57,707 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:57,707 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:57,707 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:58,208 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:58,209  INFO   SimulationOperator    25 - ############# Simulation trading is started : 30
+2022-08-07 16:39:58,210  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:29:00
+2022-08-07 16:39:58,213  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:39:58,213  INFO         StrategySma0   195 - [REQ] id: 1659857998.214 =====================
+2022-08-07 16:39:58,214  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:39:58,214  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:39:58,214  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:39:58,214 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:58,214 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:58,214 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:58,215 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:58,215 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:58,215 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:58,717 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:58,718  INFO   SimulationOperator    25 - ############# Simulation trading is started : 31
+2022-08-07 16:39:58,718  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:30:00
+2022-08-07 16:39:58,722 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26198000.0}, 'date_time': '2020-12-20T17:30:00'}
+2022-08-07 16:39:58,722  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:39:58,722  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:39:58,722  INFO         StrategySma0   195 - [REQ] id: 1659857998.723 =====================
+2022-08-07 16:39:58,723  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:39:58,723  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:39:58,723  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:39:58,723 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:58,723 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:58,723 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:58,723 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:58,724 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:58,724 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:39:59,230 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:12947550208] GO ----------
+2022-08-07 16:39:59,230  INFO   SimulationOperator    25 - ############# Simulation trading is started : 32
+2022-08-07 16:39:59,231  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:31:00
+2022-08-07 16:39:59,233  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:39:59,234  INFO         StrategySma0   195 - [REQ] id: 1659857999.234 =====================
+2022-08-07 16:39:59,234  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:39:59,234  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:39:59,234  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:39:59,234 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:39:59,234 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:39:59,235 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:39:59,235 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:39:59,235 DEBUG   SimulationOperator    96 - start timer False : running : 12947550208
+2022-08-07 16:39:59,235 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:12947550208] WAIT ==========
+2022-08-07 16:43:13,948  INFO SimulationDataProvid    43 - data is updated from server # end: 2020-12-20T18:00:00, count: 60
+2022-08-07 16:43:14,028 DEBUG        VirtualMarket    56 - Virtual Market is initialized end: 2020-12-20T18:00:00, count: 60
+2022-08-07 16:43:14,028  INFO            Simulator   166 - Simulation start! ==================
+2022-08-07 16:43:14,028  INFO   SimulationOperator    82 - ===== Start operating =====
+2022-08-07 16:43:14,028 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26017000.0}, 'date_time': '2020-12-20T17:00:00'}
+2022-08-07 16:43:14,028  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:14,028 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:14,029 WARNI   SimulationOperator    91 - can't get additional info form strategy and trader
+2022-08-07 16:43:14,029 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:14,029  INFO   SimulationOperator    25 - ############# Simulation trading is started : 1
+2022-08-07 16:43:14,029  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:00:00
+2022-08-07 16:43:14,030 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:14,030 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:14,030 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:14,030 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:14,030 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:14,030 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:14,536 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:14,537  INFO   SimulationOperator    25 - ############# Simulation trading is started : 2
+2022-08-07 16:43:14,537  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:01:00
+2022-08-07 16:43:14,540 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:14,541 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:14,541 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:14,541 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:14,541 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:14,542 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:15,047 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:15,047  INFO   SimulationOperator    25 - ############# Simulation trading is started : 3
+2022-08-07 16:43:15,047  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:02:00
+2022-08-07 16:43:15,049 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26010000.0}, 'date_time': '2020-12-20T17:02:00'}
+2022-08-07 16:43:15,049  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:15,049 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:15,050 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:15,050 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:15,050 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:15,050 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:15,050 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:15,556 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:15,557  INFO   SimulationOperator    25 - ############# Simulation trading is started : 4
+2022-08-07 16:43:15,557  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:03:00
+2022-08-07 16:43:15,560 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:15,560 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:15,561 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:15,561 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:15,561 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:15,562 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:16,067 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:16,068  INFO   SimulationOperator    25 - ############# Simulation trading is started : 5
+2022-08-07 16:43:16,068  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:04:00
+2022-08-07 16:43:16,072 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26008000.0}, 'date_time': '2020-12-20T17:04:00'}
+2022-08-07 16:43:16,072  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:16,072 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:16,073 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:16,073 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:16,073 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:16,073 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:16,074 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:16,579 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:16,580  INFO   SimulationOperator    25 - ############# Simulation trading is started : 6
+2022-08-07 16:43:16,580  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:05:00
+2022-08-07 16:43:16,584 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:16,584 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:16,584 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:16,584 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:16,584 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:16,585 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:17,090 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:17,091  INFO   SimulationOperator    25 - ############# Simulation trading is started : 7
+2022-08-07 16:43:17,092  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:06:00
+2022-08-07 16:43:17,095 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 25978000.0}, 'date_time': '2020-12-20T17:06:00'}
+2022-08-07 16:43:17,095  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:17,095 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:17,095 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:17,096 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:17,096 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:17,096 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:17,097 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:17,602 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:17,603  INFO   SimulationOperator    25 - ############# Simulation trading is started : 8
+2022-08-07 16:43:17,603  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:07:00
+2022-08-07 16:43:17,606 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:17,606 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:17,607 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:17,607 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:17,607 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:17,607 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:18,113 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:18,114  INFO   SimulationOperator    25 - ############# Simulation trading is started : 9
+2022-08-07 16:43:18,114  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:08:00
+2022-08-07 16:43:18,117 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 25964000.0}, 'date_time': '2020-12-20T17:08:00'}
+2022-08-07 16:43:18,117  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:18,118 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:18,118 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:18,118 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:18,118 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:18,118 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:18,119 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:18,624 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:18,625  INFO   SimulationOperator    25 - ############# Simulation trading is started : 10
+2022-08-07 16:43:18,625  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:09:00
+2022-08-07 16:43:18,629 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:18,629 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:18,629 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:18,629 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:18,630 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:18,630 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:19,136 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:19,137  INFO   SimulationOperator    25 - ############# Simulation trading is started : 11
+2022-08-07 16:43:19,137  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:10:00
+2022-08-07 16:43:19,140 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 25976000.0}, 'date_time': '2020-12-20T17:10:00'}
+2022-08-07 16:43:19,140  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:19,141 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:19,141 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:19,141 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:19,141 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:19,141 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:19,142 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:19,648 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:19,649  INFO   SimulationOperator    25 - ############# Simulation trading is started : 12
+2022-08-07 16:43:19,649  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:11:00
+2022-08-07 16:43:19,652 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:19,653 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:19,653 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:19,653 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:19,653 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:19,654 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:20,157 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:20,157  INFO   SimulationOperator    25 - ############# Simulation trading is started : 13
+2022-08-07 16:43:20,157  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:12:00
+2022-08-07 16:43:20,159 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 25975000.0}, 'date_time': '2020-12-20T17:12:00'}
+2022-08-07 16:43:20,159  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:20,159 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:20,159 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:20,159 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:20,159 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:20,159 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:20,159 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:20,665 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:20,666  INFO   SimulationOperator    25 - ############# Simulation trading is started : 14
+2022-08-07 16:43:20,666  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:13:00
+2022-08-07 16:43:20,669 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:20,670 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:20,670 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:20,670 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:20,670 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:20,671 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:21,176 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:21,177  INFO   SimulationOperator    25 - ############# Simulation trading is started : 15
+2022-08-07 16:43:21,178  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:14:00
+2022-08-07 16:43:21,181 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 25975000.0}, 'date_time': '2020-12-20T17:14:00'}
+2022-08-07 16:43:21,181  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:21,181 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:21,181 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:21,182 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:21,182 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:21,182 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:21,183 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:21,688 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:21,689  INFO   SimulationOperator    25 - ############# Simulation trading is started : 16
+2022-08-07 16:43:21,689  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:15:00
+2022-08-07 16:43:21,693 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:21,693 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:21,693 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:21,693 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:21,694 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:21,694 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:22,200 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:22,201  INFO   SimulationOperator    25 - ############# Simulation trading is started : 17
+2022-08-07 16:43:22,201  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:16:00
+2022-08-07 16:43:22,204 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 25999000.0}, 'date_time': '2020-12-20T17:16:00'}
+2022-08-07 16:43:22,205  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:22,205 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:22,205 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:22,205 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:22,206 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:22,206 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:22,207 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:22,712 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:22,713  INFO   SimulationOperator    25 - ############# Simulation trading is started : 18
+2022-08-07 16:43:22,713  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:17:00
+2022-08-07 16:43:22,716 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:22,717 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:22,717 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:22,717 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:22,717 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:22,718 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:23,223 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:23,224  INFO   SimulationOperator    25 - ############# Simulation trading is started : 19
+2022-08-07 16:43:23,224  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:18:00
+2022-08-07 16:43:23,226 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26037000.0}, 'date_time': '2020-12-20T17:18:00'}
+2022-08-07 16:43:23,226  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:23,226 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:23,226 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:23,226 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:23,226 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:23,226 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:23,227 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:23,732 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:23,732  INFO   SimulationOperator    25 - ############# Simulation trading is started : 20
+2022-08-07 16:43:23,733  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:19:00
+2022-08-07 16:43:23,734 DEBUG         StrategySma0    80 - process_unit updated (3333, 0)
+2022-08-07 16:43:23,734  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:43:23,734  INFO         StrategySma0   195 - [REQ] id: 1659858203.735 =====================
+2022-08-07 16:43:23,734  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:43:23,734  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:23,735  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:23,735 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:23,735 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:23,735 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:23,735 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:23,735 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:23,735 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:24,241 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:24,241  INFO   SimulationOperator    25 - ############# Simulation trading is started : 21
+2022-08-07 16:43:24,242  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:20:00
+2022-08-07 16:43:24,244 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26120000.0}, 'date_time': '2020-12-20T17:20:00'}
+2022-08-07 16:43:24,245  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:24,245  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:43:24,245  INFO         StrategySma0   195 - [REQ] id: 1659858204.246 =====================
+2022-08-07 16:43:24,245  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:43:24,245  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:24,246  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:24,246 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:24,246 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:24,246 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:24,246 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:24,246 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:24,247 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:24,752 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:24,753  INFO   SimulationOperator    25 - ############# Simulation trading is started : 22
+2022-08-07 16:43:24,753  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:21:00
+2022-08-07 16:43:24,756  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:43:24,756  INFO         StrategySma0   195 - [REQ] id: 1659858204.757 =====================
+2022-08-07 16:43:24,756  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:43:24,757  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:24,757  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:24,757 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:24,757 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:24,757 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:24,757 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:24,757 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:24,758 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:25,263 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:25,264  INFO   SimulationOperator    25 - ############# Simulation trading is started : 23
+2022-08-07 16:43:25,264  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:22:00
+2022-08-07 16:43:25,268 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26087000.0}, 'date_time': '2020-12-20T17:22:00'}
+2022-08-07 16:43:25,268  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:25,269  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:43:25,269  INFO         StrategySma0   195 - [REQ] id: 1659858205.269 =====================
+2022-08-07 16:43:25,269  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:43:25,269  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:25,269  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:25,269 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:25,270 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:25,270 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:25,270 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:25,270 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:25,271 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:25,777 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:25,777  INFO   SimulationOperator    25 - ############# Simulation trading is started : 24
+2022-08-07 16:43:25,778  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:23:00
+2022-08-07 16:43:25,781  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:43:25,781  INFO         StrategySma0   195 - [REQ] id: 1659858205.782 =====================
+2022-08-07 16:43:25,781  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:43:25,781  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:25,782  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:25,782 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:25,782 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:25,782 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:25,782 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:25,783 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:25,783 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:26,289 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:26,290  INFO   SimulationOperator    25 - ############# Simulation trading is started : 25
+2022-08-07 16:43:26,290  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:24:00
+2022-08-07 16:43:26,294 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26095000.0}, 'date_time': '2020-12-20T17:24:00'}
+2022-08-07 16:43:26,294  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:26,295  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:43:26,295  INFO         StrategySma0   195 - [REQ] id: 1659858206.295 =====================
+2022-08-07 16:43:26,295  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:43:26,295  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:26,295  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:26,295 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:26,296 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:26,296 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:26,296 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:26,296 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:26,297 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:26,802 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:26,803  INFO   SimulationOperator    25 - ############# Simulation trading is started : 26
+2022-08-07 16:43:26,804  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:25:00
+2022-08-07 16:43:26,807  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:43:26,807  INFO         StrategySma0   195 - [REQ] id: 1659858206.807 =====================
+2022-08-07 16:43:26,807  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:43:26,807  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:26,807  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:26,808 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:26,808 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:26,808 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:26,808 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:26,809 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:26,809 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:27,315 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:27,316  INFO   SimulationOperator    25 - ############# Simulation trading is started : 27
+2022-08-07 16:43:27,316  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:26:00
+2022-08-07 16:43:27,319 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26113000.0}, 'date_time': '2020-12-20T17:26:00'}
+2022-08-07 16:43:27,319  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:27,320  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:43:27,320  INFO         StrategySma0   195 - [REQ] id: 1659858207.32 =====================
+2022-08-07 16:43:27,320  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:43:27,320  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:27,320  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:27,320 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:27,321 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:27,321 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:27,321 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:27,321 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:27,322 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:27,827 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:27,828  INFO   SimulationOperator    25 - ############# Simulation trading is started : 28
+2022-08-07 16:43:27,828  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:27:00
+2022-08-07 16:43:27,832  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:43:27,832  INFO         StrategySma0   195 - [REQ] id: 1659858207.833 =====================
+2022-08-07 16:43:27,833  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:43:27,833  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:27,833  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:27,833 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:27,833 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:27,833 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:27,834 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:27,834 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:27,834 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:28,335 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:28,336  INFO   SimulationOperator    25 - ############# Simulation trading is started : 29
+2022-08-07 16:43:28,336  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:28:00
+2022-08-07 16:43:28,339 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26170000.0}, 'date_time': '2020-12-20T17:28:00'}
+2022-08-07 16:43:28,340  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:28,340  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:43:28,340  INFO         StrategySma0   195 - [REQ] id: 1659858208.341 =====================
+2022-08-07 16:43:28,340  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:43:28,340  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:28,341  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:28,341 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:28,341 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:28,341 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:28,341 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:28,341 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:28,342 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:28,845 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:28,846  INFO   SimulationOperator    25 - ############# Simulation trading is started : 30
+2022-08-07 16:43:28,846  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:29:00
+2022-08-07 16:43:28,850  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:43:28,850  INFO         StrategySma0   195 - [REQ] id: 1659858208.851 =====================
+2022-08-07 16:43:28,850  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:43:28,851  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:28,851  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:28,851 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:28,851 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:28,851 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:28,851 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:28,852 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:28,852 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:29,358 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:29,359  INFO   SimulationOperator    25 - ############# Simulation trading is started : 31
+2022-08-07 16:43:29,359  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:30:00
+2022-08-07 16:43:29,362 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26198000.0}, 'date_time': '2020-12-20T17:30:00'}
+2022-08-07 16:43:29,362  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:29,363  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:43:29,363  INFO         StrategySma0   195 - [REQ] id: 1659858209.363 =====================
+2022-08-07 16:43:29,364  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:43:29,364  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:29,364  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:29,364 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:29,364 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:29,364 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:29,364 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:29,365 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:29,365 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:29,871 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:29,872  INFO   SimulationOperator    25 - ############# Simulation trading is started : 32
+2022-08-07 16:43:29,872  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:31:00
+2022-08-07 16:43:29,875  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:43:29,875  INFO         StrategySma0   195 - [REQ] id: 1659858209.876 =====================
+2022-08-07 16:43:29,876  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:43:29,876  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:29,876  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:29,876 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:29,876 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:29,876 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:29,877 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:29,877 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:29,877 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:30,383 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:30,384  INFO   SimulationOperator    25 - ############# Simulation trading is started : 33
+2022-08-07 16:43:30,384  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:32:00
+2022-08-07 16:43:30,387 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26192000.0}, 'date_time': '2020-12-20T17:32:00'}
+2022-08-07 16:43:30,388  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:30,388  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:43:30,388  INFO         StrategySma0   195 - [REQ] id: 1659858210.389 =====================
+2022-08-07 16:43:30,389  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:43:30,389  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:30,389  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:30,389 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:30,389 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:30,389 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:30,390 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:30,390 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:30,390 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:30,896 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:30,897  INFO   SimulationOperator    25 - ############# Simulation trading is started : 34
+2022-08-07 16:43:30,897  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:33:00
+2022-08-07 16:43:30,901  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:43:30,901  INFO         StrategySma0   195 - [REQ] id: 1659858210.902 =====================
+2022-08-07 16:43:30,901  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:43:30,901  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:30,902  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:30,902 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:30,902 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:30,902 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:30,902 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:30,902 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:30,903 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:31,403 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:31,404  INFO   SimulationOperator    25 - ############# Simulation trading is started : 35
+2022-08-07 16:43:31,404  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:34:00
+2022-08-07 16:43:31,408 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26240000.0}, 'date_time': '2020-12-20T17:34:00'}
+2022-08-07 16:43:31,408  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:31,409  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:43:31,409  INFO         StrategySma0   195 - [REQ] id: 1659858211.409 =====================
+2022-08-07 16:43:31,409  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:43:31,409  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:31,409  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:31,409 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:31,410 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:31,410 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:31,410 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:31,410 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:31,411 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:31,916 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:31,917  INFO   SimulationOperator    25 - ############# Simulation trading is started : 36
+2022-08-07 16:43:31,917  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:35:00
+2022-08-07 16:43:31,921  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:43:31,921  INFO         StrategySma0   195 - [REQ] id: 1659858211.921 =====================
+2022-08-07 16:43:31,921  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:43:31,921  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:31,921  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:31,922 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:31,922 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:31,922 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:31,922 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:31,922 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:31,923 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:32,428 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:32,428  INFO   SimulationOperator    25 - ############# Simulation trading is started : 37
+2022-08-07 16:43:32,428  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:36:00
+2022-08-07 16:43:32,430 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26179000.0}, 'date_time': '2020-12-20T17:36:00'}
+2022-08-07 16:43:32,430  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:32,431  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:43:32,431  INFO         StrategySma0   195 - [REQ] id: 1659858212.431 =====================
+2022-08-07 16:43:32,431  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:43:32,431  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:32,431  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:32,431 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:32,431 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:32,431 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:32,432 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:32,432 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:32,432 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:32,938 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:32,938  INFO   SimulationOperator    25 - ############# Simulation trading is started : 38
+2022-08-07 16:43:32,939  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:37:00
+2022-08-07 16:43:32,942  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:43:32,942  INFO         StrategySma0   195 - [REQ] id: 1659858212.943 =====================
+2022-08-07 16:43:32,942  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:43:32,943  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:32,943  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:32,943 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:32,943 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:32,943 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:32,943 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:32,944 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:32,944 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:33,445 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:33,446  INFO   SimulationOperator    25 - ############# Simulation trading is started : 39
+2022-08-07 16:43:33,446  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:38:00
+2022-08-07 16:43:33,449 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26134000.0}, 'date_time': '2020-12-20T17:38:00'}
+2022-08-07 16:43:33,450  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:33,450  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:43:33,450  INFO         StrategySma0   195 - [REQ] id: 1659858213.451 =====================
+2022-08-07 16:43:33,450  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:43:33,451  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:33,451  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:33,451 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:33,451 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:33,451 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:33,452 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:33,452 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:33,452 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:33,956 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:33,957  INFO   SimulationOperator    25 - ############# Simulation trading is started : 40
+2022-08-07 16:43:33,957  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:39:00
+2022-08-07 16:43:33,960  INFO         StrategySma0   232 - target_budget is too small or invalid unit (3333, 0)
+2022-08-07 16:43:33,961  INFO         StrategySma0   195 - [REQ] id: 1659858213.961 =====================
+2022-08-07 16:43:33,961  INFO         StrategySma0   196 - type: buy
+2022-08-07 16:43:33,961  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:33,961  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:33,962 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:33,962 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:33,962 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:33,962 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:33,962 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:33,963 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:34,468 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:34,469  INFO   SimulationOperator    25 - ############# Simulation trading is started : 41
+2022-08-07 16:43:34,469  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:40:00
+2022-08-07 16:43:34,472 DEBUG         StrategySma0    84 - process_unit updated (0, 0.0)
+2022-08-07 16:43:34,473 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26102000.0}, 'date_time': '2020-12-20T17:40:00'}
+2022-08-07 16:43:34,473  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:34,473  INFO         StrategySma0   258 - asset is too small or invalid unit (0, 0.0)
+2022-08-07 16:43:34,473  INFO         StrategySma0   195 - [REQ] id: 1659858214.474 =====================
+2022-08-07 16:43:34,474  INFO         StrategySma0   196 - type: sell
+2022-08-07 16:43:34,474  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:34,474  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:34,475 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:34,475 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:34,475 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:34,475 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:34,475 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:34,476 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:34,981 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:34,982  INFO   SimulationOperator    25 - ############# Simulation trading is started : 42
+2022-08-07 16:43:34,982  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:41:00
+2022-08-07 16:43:34,986  INFO         StrategySma0   258 - asset is too small or invalid unit (0, 0.0)
+2022-08-07 16:43:34,986  INFO         StrategySma0   195 - [REQ] id: 1659858214.986 =====================
+2022-08-07 16:43:34,986  INFO         StrategySma0   196 - type: sell
+2022-08-07 16:43:34,986  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:34,986  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:34,987 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:34,987 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:34,987 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:34,987 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:34,987 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:34,988 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:35,492 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:35,493  INFO   SimulationOperator    25 - ############# Simulation trading is started : 43
+2022-08-07 16:43:35,493  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:42:00
+2022-08-07 16:43:35,496 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26099000.0}, 'date_time': '2020-12-20T17:42:00'}
+2022-08-07 16:43:35,496  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:35,497  INFO         StrategySma0   258 - asset is too small or invalid unit (0, 0.0)
+2022-08-07 16:43:35,497  INFO         StrategySma0   195 - [REQ] id: 1659858215.498 =====================
+2022-08-07 16:43:35,497  INFO         StrategySma0   196 - type: sell
+2022-08-07 16:43:35,498  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:35,498  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:35,498 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:35,498 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:35,498 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:35,498 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:35,498 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:35,499 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:36,005 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:36,005  INFO   SimulationOperator    25 - ############# Simulation trading is started : 44
+2022-08-07 16:43:36,006  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:43:00
+2022-08-07 16:43:36,009  INFO         StrategySma0   258 - asset is too small or invalid unit (0, 0.0)
+2022-08-07 16:43:36,009  INFO         StrategySma0   195 - [REQ] id: 1659858216.009 =====================
+2022-08-07 16:43:36,009  INFO         StrategySma0   196 - type: sell
+2022-08-07 16:43:36,009  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:36,009  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:36,010 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:36,010 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:36,010 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:36,010 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:36,011 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:36,011 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:36,517 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:36,518  INFO   SimulationOperator    25 - ############# Simulation trading is started : 45
+2022-08-07 16:43:36,518  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:44:00
+2022-08-07 16:43:36,521 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26097000.0}, 'date_time': '2020-12-20T17:44:00'}
+2022-08-07 16:43:36,521  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:36,522  INFO         StrategySma0   258 - asset is too small or invalid unit (0, 0.0)
+2022-08-07 16:43:36,522  INFO         StrategySma0   195 - [REQ] id: 1659858216.522 =====================
+2022-08-07 16:43:36,522  INFO         StrategySma0   196 - type: sell
+2022-08-07 16:43:36,522  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:36,522  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:36,522 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:36,523 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:36,523 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:36,523 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:36,523 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:36,524 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:37,029 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:37,030  INFO   SimulationOperator    25 - ############# Simulation trading is started : 46
+2022-08-07 16:43:37,031  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:45:00
+2022-08-07 16:43:37,034  INFO         StrategySma0   258 - asset is too small or invalid unit (0, 0.0)
+2022-08-07 16:43:37,034  INFO         StrategySma0   195 - [REQ] id: 1659858217.035 =====================
+2022-08-07 16:43:37,034  INFO         StrategySma0   196 - type: sell
+2022-08-07 16:43:37,035  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:37,035  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:37,035 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:37,035 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:37,035 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:37,035 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:37,035 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:37,036 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:37,541 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:37,542  INFO   SimulationOperator    25 - ############# Simulation trading is started : 47
+2022-08-07 16:43:37,542  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:46:00
+2022-08-07 16:43:37,543 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26097000.0}, 'date_time': '2020-12-20T17:46:00'}
+2022-08-07 16:43:37,543  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:37,543  INFO         StrategySma0   258 - asset is too small or invalid unit (0, 0.0)
+2022-08-07 16:43:37,543  INFO         StrategySma0   195 - [REQ] id: 1659858217.544 =====================
+2022-08-07 16:43:37,543  INFO         StrategySma0   196 - type: sell
+2022-08-07 16:43:37,543  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:37,544  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:37,544 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:37,544 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:37,544 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:37,544 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:37,544 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:37,544 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:38,050 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:38,051  INFO   SimulationOperator    25 - ############# Simulation trading is started : 48
+2022-08-07 16:43:38,051  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:47:00
+2022-08-07 16:43:38,054  INFO         StrategySma0   258 - asset is too small or invalid unit (0, 0.0)
+2022-08-07 16:43:38,055  INFO         StrategySma0   195 - [REQ] id: 1659858218.055 =====================
+2022-08-07 16:43:38,055  INFO         StrategySma0   196 - type: sell
+2022-08-07 16:43:38,055  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:38,055  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:38,055 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:38,056 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:38,056 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:38,056 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:38,056 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:38,057 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:38,563 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:38,563  INFO   SimulationOperator    25 - ############# Simulation trading is started : 49
+2022-08-07 16:43:38,564  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:48:00
+2022-08-07 16:43:38,567 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26115000.0}, 'date_time': '2020-12-20T17:48:00'}
+2022-08-07 16:43:38,567  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:38,568  INFO         StrategySma0   258 - asset is too small or invalid unit (0, 0.0)
+2022-08-07 16:43:38,568  INFO         StrategySma0   195 - [REQ] id: 1659858218.568 =====================
+2022-08-07 16:43:38,568  INFO         StrategySma0   196 - type: sell
+2022-08-07 16:43:38,568  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:38,568  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:38,568 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:38,569 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:38,569 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:38,569 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:38,570 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:38,570 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:39,076 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:39,076  INFO   SimulationOperator    25 - ############# Simulation trading is started : 50
+2022-08-07 16:43:39,077  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:49:00
+2022-08-07 16:43:39,080  INFO         StrategySma0   258 - asset is too small or invalid unit (0, 0.0)
+2022-08-07 16:43:39,081  INFO         StrategySma0   195 - [REQ] id: 1659858219.081 =====================
+2022-08-07 16:43:39,081  INFO         StrategySma0   196 - type: sell
+2022-08-07 16:43:39,081  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:39,081  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:39,081 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:39,082 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:39,082 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:39,082 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:39,082 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:39,083 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:39,588 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:39,589  INFO   SimulationOperator    25 - ############# Simulation trading is started : 51
+2022-08-07 16:43:39,589  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:50:00
+2022-08-07 16:43:39,592 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26113000.0}, 'date_time': '2020-12-20T17:50:00'}
+2022-08-07 16:43:39,593  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:39,593  INFO         StrategySma0   258 - asset is too small or invalid unit (0, 0.0)
+2022-08-07 16:43:39,593  INFO         StrategySma0   195 - [REQ] id: 1659858219.594 =====================
+2022-08-07 16:43:39,593  INFO         StrategySma0   196 - type: sell
+2022-08-07 16:43:39,594  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:39,594  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:39,594 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:39,594 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:39,594 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:39,595 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:39,595 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:39,595 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:40,098 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:40,099  INFO   SimulationOperator    25 - ############# Simulation trading is started : 52
+2022-08-07 16:43:40,099  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:51:00
+2022-08-07 16:43:40,102  INFO         StrategySma0   258 - asset is too small or invalid unit (0, 0.0)
+2022-08-07 16:43:40,103  INFO         StrategySma0   195 - [REQ] id: 1659858220.103 =====================
+2022-08-07 16:43:40,103  INFO         StrategySma0   196 - type: sell
+2022-08-07 16:43:40,103  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:40,103  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:40,103 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:40,104 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:40,104 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:40,104 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:40,104 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:40,105 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:40,610 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:40,611  INFO   SimulationOperator    25 - ############# Simulation trading is started : 53
+2022-08-07 16:43:40,611  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:52:00
+2022-08-07 16:43:40,615 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26081000.0}, 'date_time': '2020-12-20T17:52:00'}
+2022-08-07 16:43:40,615  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:40,615  INFO         StrategySma0   258 - asset is too small or invalid unit (0, 0.0)
+2022-08-07 16:43:40,616  INFO         StrategySma0   195 - [REQ] id: 1659858220.616 =====================
+2022-08-07 16:43:40,616  INFO         StrategySma0   196 - type: sell
+2022-08-07 16:43:40,616  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:40,616  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:40,617 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:40,617 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:40,617 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:40,617 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:40,617 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:40,618 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:41,123 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:41,124  INFO   SimulationOperator    25 - ############# Simulation trading is started : 54
+2022-08-07 16:43:41,125  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:53:00
+2022-08-07 16:43:41,128  INFO         StrategySma0   258 - asset is too small or invalid unit (0, 0.0)
+2022-08-07 16:43:41,128  INFO         StrategySma0   195 - [REQ] id: 1659858221.129 =====================
+2022-08-07 16:43:41,128  INFO         StrategySma0   196 - type: sell
+2022-08-07 16:43:41,129  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:41,129  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:41,129 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:41,129 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:41,129 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:41,129 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:41,130 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:41,130 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:41,632 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:41,633  INFO   SimulationOperator    25 - ############# Simulation trading is started : 55
+2022-08-07 16:43:41,633  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:54:00
+2022-08-07 16:43:41,637 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26039000.0}, 'date_time': '2020-12-20T17:54:00'}
+2022-08-07 16:43:41,637  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:41,638  INFO         StrategySma0   258 - asset is too small or invalid unit (0, 0.0)
+2022-08-07 16:43:41,638  INFO         StrategySma0   195 - [REQ] id: 1659858221.638 =====================
+2022-08-07 16:43:41,638  INFO         StrategySma0   196 - type: sell
+2022-08-07 16:43:41,638  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:41,638  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:41,639 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:41,639 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:41,639 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:41,639 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:41,639 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:41,640 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:42,141 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:42,142  INFO   SimulationOperator    25 - ############# Simulation trading is started : 56
+2022-08-07 16:43:42,142  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:55:00
+2022-08-07 16:43:42,145  INFO         StrategySma0   258 - asset is too small or invalid unit (0, 0.0)
+2022-08-07 16:43:42,146  INFO         StrategySma0   195 - [REQ] id: 1659858222.146 =====================
+2022-08-07 16:43:42,146  INFO         StrategySma0   196 - type: sell
+2022-08-07 16:43:42,146  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:42,146  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:42,147 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:42,147 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:42,147 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:42,147 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:42,147 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:42,148 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:42,653 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:42,654  INFO   SimulationOperator    25 - ############# Simulation trading is started : 57
+2022-08-07 16:43:42,654  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:56:00
+2022-08-07 16:43:42,658 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26006000.0}, 'date_time': '2020-12-20T17:56:00'}
+2022-08-07 16:43:42,658  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:42,659  INFO         StrategySma0   258 - asset is too small or invalid unit (0, 0.0)
+2022-08-07 16:43:42,659  INFO         StrategySma0   195 - [REQ] id: 1659858222.659 =====================
+2022-08-07 16:43:42,659  INFO         StrategySma0   196 - type: sell
+2022-08-07 16:43:42,659  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:42,659  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:42,660 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:42,660 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:42,660 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:42,660 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:42,660 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:42,661 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:43,167 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:43,167  INFO   SimulationOperator    25 - ############# Simulation trading is started : 58
+2022-08-07 16:43:43,168  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:57:00
+2022-08-07 16:43:43,171  INFO         StrategySma0   258 - asset is too small or invalid unit (0, 0.0)
+2022-08-07 16:43:43,171  INFO         StrategySma0   195 - [REQ] id: 1659858223.172 =====================
+2022-08-07 16:43:43,172  INFO         StrategySma0   196 - type: sell
+2022-08-07 16:43:43,172  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:43,172  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:43,172 WARNI        VirtualMarket   134 - turn over
+2022-08-07 16:43:43,172 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:43,172 ERROR   SimulationOperator    35 - request fail
+2022-08-07 16:43:43,173 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:43,173 DEBUG   SimulationOperator    96 - start timer False : running : 13071691776
+2022-08-07 16:43:43,174 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
+2022-08-07 16:43:43,679 DEBUG      Operator-Worker    54 - Worker[Operator-Worker:13071691776] GO ----------
+2022-08-07 16:43:43,680  INFO   SimulationOperator    25 - ############# Simulation trading is started : 59
+2022-08-07 16:43:43,680  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:58:00
+2022-08-07 16:43:43,684 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26028000.0}, 'date_time': '2020-12-20T17:58:00'}
+2022-08-07 16:43:43,684  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:43,684  INFO         StrategySma0   258 - asset is too small or invalid unit (0, 0.0)
+2022-08-07 16:43:43,685  INFO         StrategySma0   195 - [REQ] id: 1659858223.685 =====================
+2022-08-07 16:43:43,685  INFO         StrategySma0   196 - type: sell
+2022-08-07 16:43:43,685  INFO         StrategySma0   197 - price: 0, amount: 0
+2022-08-07 16:43:43,685  INFO         StrategySma0   198 - ================================================
+2022-08-07 16:43:43,685 DEBUG   SimulationOperator    33 - send_request_callback is called
+2022-08-07 16:43:43,686  INFO SimulationDataProvid    75 - [DATA] @ 2020-12-20T17:59:00
+2022-08-07 16:43:43,686 DEBUG             Analyzer   194 - make_score_record new_info {'balance': 10000.0, 'asset': {}, 'quote': {'KRW-BTC': 26038000.0}, 'date_time': '2020-12-20T17:59:00'}
+2022-08-07 16:43:43,686  INFO             Analyzer   225 - cumulative_return 10000 -> 10000.0, 0%
+2022-08-07 16:43:43,686  INFO             Analyzer   266 - ### Return Report ===============================
+2022-08-07 16:43:43,687  INFO             Analyzer   267 - Property                      10000 ->      10000
+2022-08-07 16:43:43,687  INFO             Analyzer   268 - Gap                                             0
+2022-08-07 16:43:43,687  INFO             Analyzer   271 - Cumulative return                             0 %
+2022-08-07 16:43:43,688  INFO             Analyzer   272 - Price_change_ratio {}
+2022-08-07 16:43:43,691 DEBUG             Analyzer   393 - report plot data ===================================
+2022-08-07 16:43:43,871 DEBUG   SimulationOperator    55 - ############# Simulation trading is completed
+2022-08-07 16:43:43,872 DEBUG   SimulationOperator    96 - start timer False : simulation_terminated : 13071691776
+2022-08-07 16:43:43,872 DEBUG      Operator-Worker    44 - Worker[Operator-Worker:13071691776] WAIT ==========
